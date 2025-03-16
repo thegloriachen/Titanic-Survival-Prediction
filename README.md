@@ -5,7 +5,7 @@
 
 ## 🔧 使用技術
 - Python (Pandas)
-- 機器學習：Scikit-learn (Random Forest, Logistic Regression)
+- 機器學習：Scikit-learn (ensemble.RandomForestClassifier)
 
 ## 💻Project Source Codes:
 [Titanic Survival Prediction](https://github.com/thegloriachen/Titanic-Survival-Prediction/blob/main/Titanic-Survival-Prediction.py)
